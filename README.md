@@ -6,3 +6,4 @@ C# assignment - Rick and Morty themed vending machine.
 
 
 ![Screenshot](Screenshot 2021-03-30 at 11.29.45.png)
+![alt text](https://github.com/[MadosMark]/[BlipsAndChitz]/Screenshot 2021-03-30 at 11.29.45.png)
