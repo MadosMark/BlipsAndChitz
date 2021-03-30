@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/lonelylooney/Desktop/blitzAndChitz/BlipsAndChitz_VendingMachine/BlipsAndChitzStore.csproj",
+      "projectUniqueName": "/Users/lonelylooney/Desktop/blipsAndChitz/BlipsAndChitz_VendingMachine/BlipsAndChitzStore.csproj",
       "projectName": "BlipsAndChitzStore",
-      "projectPath": "/Users/lonelylooney/Desktop/blitzAndChitz/BlipsAndChitz_VendingMachine/BlipsAndChitzStore.csproj",
+      "projectPath": "/Users/lonelylooney/Desktop/blipsAndChitz/BlipsAndChitz_VendingMachine/BlipsAndChitzStore.csproj",
       "packagesPath": "/Users/lonelylooney/.nuget/packages/",
-      "outputPath": "/Users/lonelylooney/Desktop/blitzAndChitz/BlipsAndChitz_VendingMachine/obj/",
+      "outputPath": "/Users/lonelylooney/Desktop/blipsAndChitz/BlipsAndChitz_VendingMachine/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/lonelylooney/.config/NuGet/NuGet.Config"
